@@ -6,5 +6,6 @@ namespace MoneyTracker_durmaz
 {
     class Fahrzeuge
     {
+        
     }
 }
